@@ -8,6 +8,8 @@
 
 - **Iris Dataset**: 鸢尾花数据集，用于分类任务。
 - **Car Evaluation**: 汽车评估数据集，用于分类任务。
+- **Wine_Quality**: 葡萄酒评估数据集，用于分类任务
+- **Bike Sharing**: 共享单车数据集，用于回归任务。
 
 ## 使用方法
 
