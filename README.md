@@ -14,17 +14,18 @@
 ## 使用方法
 
 1. **克隆仓库**:
-   ```bash
-   git clone https://github.com/your_username/UCI-ML-Datasets.git
-   cd UCI-ML-Datasets
-   ```
 
+   ```bash
+   git clone https://github.com/Hasson827/UCIML-Example.git
+   cd UCIML-Example
+   ```
 2. **安装依赖**:
 
 确保你已经安装了所需的 Python 库。你可以使用以下命令安装所有依赖：
-   ```bash
+
+```bash
    pip install -r requirements.txt
-   ```
+```
 
 ## 贡献
 
